@@ -1,3 +1,6 @@
 # H1
 ## H2
-### H3
+
+**Bold Text++
+
+'this is where a code snippet will go'
